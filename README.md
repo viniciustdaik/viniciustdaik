@@ -34,10 +34,10 @@
   <img align="center" alt="Sami-Js" height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <!-- PYTHON width="40"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg-->
   <img align="center" alt="Sami-Js" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <!--REACT NATIVE width="30"https://miro.medium.com/max/400/1*mrOXGyIa3BlPK80peLmEbA.png-->
-   <img align="center" alt="Sami-Js" height="35" width="35" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <!--HTML https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png-->
-    <img align="center" alt="Sami-Js" height="35" width="35" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <!--CSS https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png-->
+   <img align="center" alt="Sami-Js" height="35" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <!--HTML width="35"https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png-->
+    <img align="center" alt="Sami-Js" height="35" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <!--CSS width="35"https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png-->
   
   ##
   
