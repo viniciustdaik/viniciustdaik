@@ -20,6 +20,7 @@
 
 ### Tecnologias que uso no dia a dia:
 <div style="display: inline_block">
+  <a href="https://github.com/viniciustdaik">
   <img align="center" alt="Sami-Js" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <!-- JS width="40"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg-->
   <img align="center" alt="Sami-Js" height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <!-- PYTHON width="40"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg-->
   <img align="center" alt="Sami-Js" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
