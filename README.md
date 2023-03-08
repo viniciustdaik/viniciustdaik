@@ -2,6 +2,13 @@
 <div align="center">
   <a href="https://github.com/viniciustdaik">
   <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+  <!-- Google Play -->
+  <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
+  <!-- Google Chrome -->
+  <img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white"/>
+  <!-- Safari -->
+  <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white"/>
+  <!-- Opera -->
 </div>
 
 <div align="center">
