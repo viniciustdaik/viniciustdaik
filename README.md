@@ -9,6 +9,8 @@
   <!-- Safari -->
   <img height="40em"src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white"/>
   <!-- Opera -->
+  <img height="40em"src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
+  <!-- Firefox -->
 </div>
 
 <div align="center">
