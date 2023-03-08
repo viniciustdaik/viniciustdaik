@@ -1,7 +1,7 @@
 ### Oi, eu sou o Vini, tenho 14 anos.  📖
 <div align="center">
   <a href="https://github.com/viniciustdaik">
-  <img height="10em" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+  <img height="40em" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
   <!-- Google Play -->
   <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
   <!-- Google Chrome -->
